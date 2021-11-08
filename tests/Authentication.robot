@@ -8,20 +8,12 @@ Test Teardown    Finish Session
 
 
 
-*Variables*
-@{EXPECTED_ALERT}    Create List
-                     ...            E-mail obrigatório
-                     ...            Senha obrigatória
-
-@{EXPECTED_MSG}    Usuário e/ou senha inválidos.
-
-
 
 *Test Cases*
 User Login
     [Tags]    user_login 
 
-    ${user}    Factory Login User
+    ${user}    Factory User    login
 
     Go To Login Form
     Fill Login Form             ${user}                            
@@ -37,13 +29,13 @@ Invalid User
     Go To Login Form
     Fill Login Form            ${u}
     Submit Login Form
-    Modal Content Should Be    @{EXPECTED_MSG}    
+    Modal Content Should Be    Usuário e/ou senha inválidos.   
 
 
 Wrong Format Email User
     [Tags]    inval_login    wrongemail
 
-    ${u}    Factory Wrong Email
+    ${u}    Factory User     wrong_email
 
     Go To Login Form
     Fill Login Form               ${u}
@@ -51,60 +43,50 @@ Wrong Format Email User
     Should Be Field Type Email    
 
 
-# Invald Password User
-#    [Tags]    inval_login    invalpass
-
-#    ${user}    Factory Login User
-
-#    Go To Login Form
-#    Fill Login Form            ${user}[email]          ${u}
-#    Submit Login Form
-#    Modal Content Should Be    ${EXPECTED_ALERT}[2]    
-
-
 Ignore All Fields Login
     [Tags]    attempt_login    ignallogin
 
-    # @{expected_alerts}      Create List
-    # ...                     E-mail obrigatório
-    # ...                     Senha obrigatória
+    @{expected_alerts}    Create List
+    ...                   E-mail obrigatório
+    ...                   Senha obrigatória
 
     Go To Login Form
     Submit Login Form
-    Alert Spans Login Should Be    ${EXPECTED_ALERT}[0]    ${EXPECTED_ALERT}[1]
+    Alert Spans Login Should Be    ${expected_alerts}
 
 
-Ignore Fields Login User
+Ignore Field Login User
     [Tags]    attempt_login    ignlogin
 
-    # @{expected_alerts}      Create List
-    # ...                     E-mail obrigatório
-    # ...                     Senha obrigatória
-    # ${user}     Factory Login User
-    ${user}    Create Dictionary    
-    ...        email= 
-    ...        password=pwd123
+    ${u}    Factory User    login
+
+    @{expected_alerts}    Create List
+    ...                   E-mail obrigatório
+    ...                   Senha obrigatória
 
     Go To Login Form
-    Fill Login Form                ${user}[password]    
-    Submit Login Form              
-    Alert Spans Login Should Be    ${EXPECTED_ALERT}
+    Fill Login Form Email               ${u}         
+    Submit Login Form                 
+    Alert Span Login Should Be MSG      ${expected_alerts}[1]
 
 
-Ignore Fields Password User
+Ignore Field Password User
     [Tags]    attempt_login    ignpass
 
-    # ${user_null}     Factory Empty Fields
-    # ${user}          Factory Login User
+    ${u}    Factory User    login
 
-    # @{expected_alerts}      Create List
-    # ...                     E-mail obrigatório
-    # ...                     Senha obrigatória
-    ${user}    Create Dictionary                 
-    ...        email=marques.bbetty@gmail.com
-    ...        password= 
+    @{expected_alerts}    Create List
+    ...                   E-mail obrigatório
+    ...                   Senha obrigatória
 
     Go To Login Form
-    Fill Login Form                ${user}[email]
-    Submit Login Form              
-    Alert Spans Login Should Be    ${EXPECTED_ALERT}
+    Fill Login Form Password        ${u} 
+    Submit Login Form             
+    Alert Span Login Should Be MSG      ${expected_alerts}[2]
+
+
+
+
+
+
+

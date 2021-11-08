@@ -13,9 +13,9 @@ Add Users From Database
 
 
 Do Login
-    [Arguments]    ${geek_login}
+    [Arguments]    ${user}
 
     Go To Login Form
-    Fill Login Form              ${geek}  
+    Fill Login Form              ${user}  
     Submit Login Form
-    User Should Be Logged In     ${geek} 
+    User Should Be Logged In     ${user}[name] ${user}[lastname] 

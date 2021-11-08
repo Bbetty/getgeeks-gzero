@@ -3,25 +3,31 @@ Documentation    Ações Base para ST Signup
 
 
 
+*Variables*
+${INPUT_EMAIL}    id=email
+${INPUT_PASS}     id=password
+
+
+
 *Keywords*
 Go To Login Form
-    # [Arguments]    ${user} 
+    # [Arguments]    ${user}
 
     ${expected_text}    Set Variable    Fazer login
-    ${receive_text}     Set Variable    xpath=//form[@class="login-form"]/h1             
+    ${receive_text}     Set Variable    xpath=//form[@class="login-form"]/h1    
 
     Go To                      ${BASE_URL}
     Wait For Elements State    ${receive_text} 
-    # >> text=Fazer login     
-    ...                        visible              5
-    Get Text                   ${receive_text}      equal     ${expected_text}  
+    # >> text=Fazer login
+    ...                        visible             5
+    Get Text                   ${receive_text}     equal    ${expected_text}    
 
 
 Fill Login Form
-    [Arguments]    ${user}      
+    [Arguments]    ${user}    
 
-    Fill Text    id=email        ${user}[email]
-    Fill Text    id=password     ${user}[password]
+    Fill Text    ${INPUT_EMAIL}    ${user}[email]
+    Fill Text    ${INPUT_PASS}     ${user}[password]
 
 
 Submit Login Form
@@ -29,17 +35,17 @@ Submit Login Form
 
 
 User Should Be Logged In
-    [Arguments]     ${expected_fullname}
+    [Arguments]    ${expected_fullname}
 
-    ${locator}      Set Variable      css=a[href="/profile"] 
+    ${locator}    Set Variable    css=a[href="/profile"] 
 
-    Wait For Elements State    ${locator}     visible    5
-    Get Text                   ${locator}     equal      ${expected_fullname}
+    Wait For Elements State    ${locator}    visible    5
+    Get Text                   ${locator}    equal      ${expected_fullname}
 
 
 Should Be Field Type Email
-    Get Property       id=email    type    equal   email
-    
+    Get Property    ${INPUT_EMAIL}    type    equal    email
+
 
 Modal Content Login Should Be
     [Arguments]    ${expected_text}
@@ -51,23 +57,41 @@ Modal Content Login Should Be
     Get Text                   ${title}      equal      Oops...
     Wait For Elements State    ${content}    
     ...                        visible       5
-    Get Text                   ${content}    equal    ${expected_text}    
+    Get Text                   ${content}    equal      ${expected_text}    
+
+
+Alert Span Login Should Be MSG
+    [Arguments]    ${expected_alert}
+
+    Wait For Elements State    css=span[class=error] >> text=${expected_alert}
+    ...                        visible                                            5
 
 
 Alert Spans Login Should Be
-    [Arguments]     ${expected_alerts}
+    [Arguments]    ${expected_alerts}
 
-    @{got_alerts}   Create List
+    @{got_alerts}    Create List
 
-    ${spans}        Get Elements    xpath=//span[@class="error"]
+    ${spans}    Get Elements    xpath=//span[@class="error"]
 
-    FOR   ${span}   IN    @{spans}
+    FOR    ${span}    IN    @{spans}
 
-        ${text}             Get Text               ${span}
-        Append To List      ${got_alerts}          ${text}
+    ${text}           Get Text         ${span}
+    Append To List    ${got_alerts}    ${text}
 
     END
 
-    Lists Should Be Equal   ${expected_alerts}     ${got_alerts}
+    Lists Should Be Equal    ${expected_alerts}    ${got_alerts}
 
 
+Fill Login Form Password
+    [Arguments]    ${user}    
+
+    Fill Text    ${INPUT_PASS}     ${user}[password]
+
+
+Fill Login Form Email
+    [Arguments]    ${user}    
+
+    Fill Text    ${INPUT_EMAIL}    ${user}[email]
+    

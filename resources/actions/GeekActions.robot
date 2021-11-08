@@ -11,26 +11,29 @@ Go to Geek Form
 
 
 Fill Geek Form
-    [Arguments]    ${geek}
+    [Arguments]    ${g}
 
-    Fill Text    xpath=//label[text()="Whatsapp"]/..//input         ${geek}[whats]
-    Fill Text    xpath=//label[text()="Descrição"]/..//textarea     ${geek}[desc]
+    Fill Text    xpath=//label[text()="Whatsapp"]/..//input         ${g}[whats]
+    Fill Text    xpath=//label[text()="Descrição"]/..//textarea     ${g}[desc]
     
-    ${locater_printer}      Set Variable            xpath=//label[text()="Conserta Impressora?"]/../select
-    Sect Options By         ${locater_printer}      value       ${geek}[printer_repair]
+    ${locator_printer}      Set Variable            xpath=//label[text()="Conserta Impressora?"]/../select
+    Sect Options By         ${locator_printer}      value       ${g}[printer_repair]
 
-    ${locater_work}         Set Variable            xpath=//label[text()="Modelo de Trabalho"]/../select
-    Sect Options By         ${locater_work}         value       ${geek}work]
+    ${locator_work}         Set Variable            xpath=//label[text()="Modelo de Trabalho"]/../select
+    Sect Options By         ${locator_work}         value       ${g}[work]
 
-    Fill Text               xpath=//label[text()="Valor da sua hora"]/../input      ${geek}[cost]
+    Fill Text               xpath=//label[text()="Valor da sua hora"]/../input      ${g}[cost]
+
 
 Submit Geek Form
     Click    css=button >> text=Quero ser um Geek
 
 
 Geek Form Should Be Success
-    [Arguments]     ${target}
+    # [Arguments]     ${target}
 
     ${expsct_msg}      Set Variable      css=p >> text=Seu cadastro esta na nossa lista
 
     Wait For Elements State     ${expsct_msg}     visible    5
+
+
