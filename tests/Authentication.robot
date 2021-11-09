@@ -11,7 +11,7 @@ Test Teardown    Finish Session
 
 *Test Cases*
 User Login
-    [Tags]    user_login 
+    [Tags]    user_login    smoke
 
     ${user}    Factory User    login
 

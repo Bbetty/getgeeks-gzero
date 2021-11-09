@@ -46,16 +46,4 @@ User Should Be Logged In
 Should Be Field Type Email
     Get Property    ${INPUT_EMAIL}    type    equal    email
 
-
-
-Fill Login Form Password
-    [Arguments]    ${user}    
-
-    Fill Text    ${INPUT_PASS}     ${user}[password]
-
-
-Fill Login Form Email
-    [Arguments]    ${user}    
-
-    Fill Text    ${INPUT_EMAIL}    ${user}[email]
     
