@@ -29,13 +29,13 @@ Invalid User
     Go To Login Form
     Fill Login Form            ${u}
     Submit Login Form
-    Modal Content Should Be    Usuário e/ou senha inválidos.   
+    Modal Content Should Be    Usuário e/ou senha inválidos.    
 
 
 Wrong Format Email User
     [Tags]    inval_login    wrongemail
 
-    ${u}    Factory User     wrong_email
+    ${u}    Factory User    wrong_email
 
     Go To Login Form
     Fill Login Form               ${u}
@@ -52,7 +52,8 @@ Ignore All Fields Login
 
     Go To Login Form
     Submit Login Form
-    Alert Spans Login Should Be    ${expected_alerts}
+    # Alert Spans Login Should Be    ${expected_alerts}
+    Alert Spans MSG Should Be    ${expected_alerts}
 
 
 Ignore Field Login User
@@ -65,10 +66,10 @@ Ignore Field Login User
     ...                   Senha obrigatória
 
     Go To Login Form
-    Fill Login Form Email               ${u}         
-    Submit Login Form                 
-    Alert Span Login Should Be MSG      ${expected_alerts}[1]
-
+    Fill Login Form Email        ${u}                     
+    Submit Login Form            
+    # Alert Span Login Should Be MSG      ${expected_alerts}[1]
+    Alert Span Should Be MSG    ${expected_alerts}[1]
 
 Ignore Field Password User
     [Tags]    attempt_login    ignpass
@@ -80,10 +81,10 @@ Ignore Field Password User
     ...                   Senha obrigatória
 
     Go To Login Form
-    Fill Login Form Password        ${u} 
-    Submit Login Form             
-    Alert Span Login Should Be MSG      ${expected_alerts}[2]
-
+    Fill Login Form Password     ${u} 
+    Submit Login Form            
+    # Alert Span Login Should Be MSG      ${expected_alerts}[2]
+    Alert Span Should Be MSG    ${expected_alerts}[0]
 
 
 
