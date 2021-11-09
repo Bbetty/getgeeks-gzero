@@ -59,31 +59,29 @@ Ignore All Fields Login
 Ignore Field Login User
     [Tags]    attempt_login    ignlogin
 
-    ${u}    Factory User    login
+    ${u}    Create Dictionary    email=${EMPTY}    password=test321
 
     @{expected_alerts}    Create List
     ...                   E-mail obrigatório
     ...                   Senha obrigatória
 
     Go To Login Form
-    Fill Login Form Email        ${u}                     
-    Submit Login Form            
-    # Alert Span Login Should Be MSG      ${expected_alerts}[1]
+    Fill Login Form Email       ${u}                     
+    Submit Login Form           
     Alert Span Should Be MSG    ${expected_alerts}[1]
 
 Ignore Field Password User
     [Tags]    attempt_login    ignpass
 
-    ${u}    Factory User    login
+    ${u}    Create Dictionary    email=test@test.io    password=${EMPTY} 
 
     @{expected_alerts}    Create List
     ...                   E-mail obrigatório
     ...                   Senha obrigatória
 
     Go To Login Form
-    Fill Login Form Password     ${u} 
-    Submit Login Form            
-    # Alert Span Login Should Be MSG      ${expected_alerts}[2]
+    Fill Login Form Password    ${u} 
+    Submit Login Form           
     Alert Span Should Be MSG    ${expected_alerts}[0]
 
 
