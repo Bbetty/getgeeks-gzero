@@ -52,7 +52,6 @@ Ignore All Fields Login
 
     Go To Login Form
     Submit Login Form
-    # Alert Spans Login Should Be    ${expected_alerts}
     Alert Spans MSG Should Be    ${expected_alerts}
 
 
@@ -66,9 +65,9 @@ Ignore Field Login User
     ...                   Senha obrigatória
 
     Go To Login Form
-    Fill Login Form Email       ${u}                     
+    Fill Login Form             ${u}                     
     Submit Login Form           
-    Alert Span Should Be MSG    ${expected_alerts}[1]
+    Alert Span Should Be MSG    ${expected_alerts}[0]
 
 Ignore Field Password User
     [Tags]    attempt_login    ignpass
@@ -80,9 +79,9 @@ Ignore Field Password User
     ...                   Senha obrigatória
 
     Go To Login Form
-    Fill Login Form Password    ${u} 
+    Fill Login Form             ${u} 
     Submit Login Form           
-    Alert Span Should Be MSG    ${expected_alerts}[0]
+    Alert Span Should Be MSG    ${expected_alerts}[1]
 
 
 
