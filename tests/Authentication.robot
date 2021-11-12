@@ -65,46 +65,47 @@ Wrong Format Email User
 Ignore All Fields Login
     [Tags]    attempt_login    ignallogin
 
-    # @{expected_alerts}      Create List
-    # ...                     E-mail obrigatório
-    # ...                     Senha obrigatória
+    @{expected_alerts}    Create List
+    ...                   E-mail obrigatório
+    ...                   Senha obrigatória
 
     Go To Login Form
     Submit Login Form
-    Alert Spans Login Should Be    ${EXPECTED_ALERT}[0]    ${EXPECTED_ALERT}[1]
+    Alert Spans Login Should Be    ${expected_alerts}
 
 
 Ignore Fields Login User
     [Tags]    attempt_login    ignlogin
 
-    # @{expected_alerts}      Create List
-    # ...                     E-mail obrigatório
-    # ...                     Senha obrigatória
-    # ${user}     Factory Login User
-    ${user}    Create Dictionary    
-    ...        email= 
-    ...        password=pwd123
+    @{expected_alerts}    Create List
+    ...                   E-mail obrigatório
+    ...                   Senha obrigatória
+
+    ${user}    Factory Login User
+    # ${user}    Create Dictionary
+    # ...        email=
+    # ...        password=pwd123
 
     Go To Login Form
-    Fill Login Form                ${user}[password]    
-    Submit Login Form              
-    Alert Spans Login Should Be    ${EXPECTED_ALERT}
+    Fill Login Form Password          ${user}                  
+    Submit Login Form                 
+    Alert Span Login Should Be MSG    ${expected_alerts}[0]
 
 
 Ignore Fields Password User
     [Tags]    attempt_login    ignpass
 
     # ${user_null}     Factory Empty Fields
-    # ${user}          Factory Login User
+    ${user}    Factory Login User
 
-    # @{expected_alerts}      Create List
-    # ...                     E-mail obrigatório
-    # ...                     Senha obrigatória
-    ${user}    Create Dictionary                 
-    ...        email=marques.bbetty@gmail.com
-    ...        password= 
+    @{expected_alerts}    Create List
+    ...                   E-mail obrigatório
+    ...                   Senha obrigatória
+    # ${user}    Create Dictionary
+    # ...        email=marques.bbetty@gmail.com
+    # ...        password=
 
     Go To Login Form
-    Fill Login Form                ${user}[email]
-    Submit Login Form              
-    Alert Spans Login Should Be    ${EXPECTED_ALERT}
+    Fill Login Form Email             ${user}
+    Submit Login Form                 
+    Alert Span Login Should Be MSG    ${expected_alerts}[1]

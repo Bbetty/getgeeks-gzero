@@ -53,6 +53,11 @@ Modal Content Login Should Be
     ...                        visible       5
     Get Text                   ${content}    equal    ${expected_text}    
 
+Alert Span Login Should Be MSG
+    [Arguments]     ${expected_alert}
+
+    Wait For Elements State     css=span[class=error] >> text=${expected_alert}
+    ...                         visible     5
 
 Alert Spans Login Should Be
     [Arguments]     ${expected_alerts}
@@ -71,3 +76,13 @@ Alert Spans Login Should Be
     Lists Should Be Equal   ${expected_alerts}     ${got_alerts}
 
 
+Fill Login Form Email
+    [Arguments]    ${user}    
+
+    Fill Text    id=email    ${user}[email]
+
+
+Fill Login Form Password
+    [Arguments]    ${user}    
+
+    Fill Text    id=password    ${user}[password]

@@ -13,7 +13,7 @@ Add Users From Database
 
 
 Do Login
-    [Arguments]    ${geek_login}
+    [Arguments]    ${geek}
 
     Go To Login Form
     Fill Login Form              ${geek}  
