@@ -1,11 +1,100 @@
-{"level":30,"time":"2021-11-09T03:38:30.931Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"Listening on 56162"}
-{"level":30,"time":"2021-11-09T03:38:32.933Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-09T03:38:32.942Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-09T03:38:33.428Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-09T03:38:33.429Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-09T03:38:35.991Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-09T03:38:35.991Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-09T03:38:35.992Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-09T03:38:36.008Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-09T03:38:36.008Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-09T03:38:36.008Z","pid":21708,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:05:55.041Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Listening on 62975"}
+{"level":30,"time":"2021-11-11T03:05:59.761Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T03:05:59.785Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:00.853Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T03:06:00.853Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:03.923Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T03:06:03.997Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T03:06:04.041Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T03:06:04.054Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T03:06:04.117Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T03:06:04.170Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-11T03:06:04.299Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=a[href=\"/profile\"]"}
+{"level":30,"time":"2021-11-11T03:06:05.817Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T03:06:05.859Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element css=a[href=\"/profile\"] containing test loggin"}
+{"level":30,"time":"2021-11-11T03:06:06.101Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:06.102Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:06.102Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:06.133Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:06.133Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:06.134Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:08.760Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T03:06:08.802Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:09.805Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T03:06:09.805Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:12.668Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T03:06:12.705Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T03:06:12.730Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T03:06:12.734Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T03:06:12.773Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T03:06:12.814Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-11T03:06:12.910Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-title"}
+{"level":30,"time":"2021-11-11T03:06:13.882Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T03:06:13.917Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element css=.swal2-title containing Oops..."}
+{"level":30,"time":"2021-11-11T03:06:13.920Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-html-container"}
+{"level":30,"time":"2021-11-11T03:06:13.940Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T03:06:13.969Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element css=.swal2-html-container containing Usuário e/ou senha inválidos."}
+{"level":30,"time":"2021-11-11T03:06:14.274Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:14.274Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:14.274Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:14.316Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:14.316Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:14.316Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:19.631Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T03:06:19.673Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:21.405Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T03:06:21.406Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:24.326Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T03:06:24.366Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T03:06:24.394Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T03:06:24.398Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T03:06:24.439Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T03:06:24.481Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-11T03:06:24.567Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T03:06:24.599Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved dom property for element id=email containing email"}
+{"level":30,"time":"2021-11-11T03:06:25.070Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:25.070Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:25.070Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:25.091Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:25.091Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:25.091Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:27.542Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T03:06:27.557Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:28.521Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T03:06:28.521Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:31.267Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T03:06:31.316Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T03:06:31.346Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T03:06:31.350Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-11T03:06:31.780Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:31.780Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:31.780Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:31.796Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:31.796Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:31.796Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:35.555Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T03:06:35.586Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:36.507Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T03:06:36.507Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:39.233Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T03:06:39.276Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T03:06:39.296Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T03:06:39.569Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:39.570Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:39.570Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:39.597Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:39.597Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:39.597Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:42.608Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T03:06:42.657Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:43.714Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T03:06:43.714Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:46.729Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T03:06:46.774Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T03:06:46.796Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T03:06:47.059Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:47.059Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:47.059Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T03:06:47.077Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T03:06:47.077Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T03:06:47.077Z","pid":6964,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}

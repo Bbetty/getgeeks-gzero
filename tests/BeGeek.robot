@@ -10,12 +10,13 @@ Test Teardown   Finish Session
 
 *Test Cases*
 Be a Geek
-    [Tags]      be_geek     smoke
 
-    ${user}     Factory User    be_geek
-    Do Login    ${user}[be_geek]
+    ${user}     Factory Login User 
+    ${geek}     Factory Be Geek
+
+    Do Login    ${user}
 
     Go to Geek Form
-    # Fill Geek Form                  ${user}[geek_profile]
-    # Submit Geek Form
-    # Geek Form Should Be Success     
+    Fill Geek Form    ${geek}
+    Submit Geek Form
+    Geek Form Should Be Success     
