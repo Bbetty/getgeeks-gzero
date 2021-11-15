@@ -1,114 +1,544 @@
-{"level":30,"time":"2021-11-12T02:50:12.690Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Listening on 51467"}
-{"level":30,"time":"2021-11-12T02:50:15.628Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-12T02:50:15.648Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:16.844Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-12T02:50:16.844Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:21.351Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
-{"level":30,"time":"2021-11-12T02:50:21.404Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:21.442Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
-{"level":30,"time":"2021-11-12T02:50:21.448Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
-{"level":30,"time":"2021-11-12T02:50:21.500Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
-{"level":30,"time":"2021-11-12T02:50:21.547Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-12T02:50:21.675Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=a[href=\"/profile\"]"}
-{"level":30,"time":"2021-11-12T02:50:22.913Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:22.945Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element css=a[href=\"/profile\"] containing test loggin"}
-{"level":30,"time":"2021-11-12T02:50:23.130Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:23.130Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:50:23.130Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:23.150Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:23.151Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:50:23.152Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:26.382Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-12T02:50:26.427Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:27.556Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-12T02:50:27.556Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:31.025Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
-{"level":30,"time":"2021-11-12T02:50:31.077Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:31.112Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
-{"level":30,"time":"2021-11-12T02:50:31.122Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
-{"level":30,"time":"2021-11-12T02:50:31.177Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
-{"level":30,"time":"2021-11-12T02:50:31.229Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-12T02:50:31.355Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-title"}
-{"level":30,"time":"2021-11-12T02:50:32.513Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:32.562Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element css=.swal2-title containing Oops..."}
-{"level":30,"time":"2021-11-12T02:50:32.569Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-html-container"}
-{"level":30,"time":"2021-11-12T02:50:32.591Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:32.621Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element css=.swal2-html-container containing Usuário e/ou senha inválidos."}
-{"level":30,"time":"2021-11-12T02:50:32.956Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:32.956Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:50:32.956Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:33.008Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:33.008Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:50:33.008Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:35.794Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-12T02:50:35.808Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:37.114Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-12T02:50:37.114Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:41.094Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
-{"level":30,"time":"2021-11-12T02:50:41.143Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:41.175Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
-{"level":30,"time":"2021-11-12T02:50:41.182Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
-{"level":30,"time":"2021-11-12T02:50:41.233Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
-{"level":30,"time":"2021-11-12T02:50:41.276Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-12T02:50:41.400Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:41.440Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved dom property for element id=email containing email"}
-{"level":30,"time":"2021-11-12T02:50:41.970Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:41.970Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:50:41.970Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:41.998Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:41.999Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:50:41.999Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:44.863Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-12T02:50:44.902Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:45.968Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-12T02:50:45.968Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:49.454Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
-{"level":30,"time":"2021-11-12T02:50:49.504Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:49.539Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
-{"level":30,"time":"2021-11-12T02:50:49.543Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-12T02:50:49.623Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: false"}
-{"level":30,"time":"2021-11-12T02:50:49.655Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//span[@class=\"error\"]"}
-{"level":30,"time":"2021-11-12T02:50:49.677Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"element= selector parsed without children"}
-{"level":30,"time":"2021-11-12T02:50:49.679Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:49.691Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element element=9ee5b324-e0b0-4bf1-99e9-823a53a47191 containing E-mail obrigatório"}
-{"level":30,"time":"2021-11-12T02:50:49.700Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"element= selector parsed without children"}
-{"level":30,"time":"2021-11-12T02:50:49.700Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:49.708Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element element=61e65df4-26ef-4946-b7c3-fc21fdca559d containing Senha obrigatória"}
-{"level":30,"time":"2021-11-12T02:50:50.058Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:50.058Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:50:50.058Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:50.085Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:50.085Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:50:50.085Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:53.079Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-12T02:50:53.107Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:54.348Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-12T02:50:54.348Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:58.036Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
-{"level":30,"time":"2021-11-12T02:50:58.086Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:50:58.117Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
-{"level":30,"time":"2021-11-12T02:50:58.122Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
-{"level":30,"time":"2021-11-12T02:50:58.173Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-12T02:50:58.282Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=E-mail obrigatório"}
-{"level":30,"time":"2021-11-12T02:50:58.679Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:58.679Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:50:58.679Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:50:58.707Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:50:58.707Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:50:58.707Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:51:01.708Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-12T02:51:01.727Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:51:02.822Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-12T02:51:02.822Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:51:06.384Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
-{"level":30,"time":"2021-11-12T02:51:06.435Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-12T02:51:06.471Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
-{"level":30,"time":"2021-11-12T02:51:06.481Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
-{"level":30,"time":"2021-11-12T02:51:06.536Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-12T02:51:06.663Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Senha obrigatória"}
-{"level":30,"time":"2021-11-12T02:51:07.114Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:51:07.114Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:51:07.114Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
-{"level":30,"time":"2021-11-12T02:51:07.137Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
-{"level":30,"time":"2021-11-12T02:51:07.137Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-12T02:51:07.137Z","pid":20972,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:25:13.364Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Listening on 51635"}
+{"level":30,"time":"2021-11-11T01:25:19.530Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:25:19.559Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:25:21.840Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:25:21.840Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:25:30.637Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T01:25:30.704Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:25:30.737Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T01:25:30.744Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:25:30.810Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:25:30.845Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-11T01:25:30.938Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=a[href=\"/profile\"]"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 5000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=a[href="/profile"]" to be visible
+============================================================
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
+    at fulfilled (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-11-11T01:25:36.696Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:25:36.696Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:25:36.696Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:25:36.707Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:25:36.708Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:25:36.708Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:25:39.459Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:25:39.463Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:25:40.424Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:25:40.424Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:25:43.284Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T01:25:43.312Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:25:43.338Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T01:25:43.344Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:25:43.386Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:25:43.416Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-11T01:25:43.500Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-title"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 5000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=.swal2-title" to be visible
+============================================================
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
+    at fulfilled (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-11-11T01:25:49.245Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:25:49.245Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:25:49.245Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:25:49.264Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:25:49.264Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:25:49.265Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:25:54.589Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:25:54.594Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:25:56.555Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:25:56.555Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:25:59.357Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T01:25:59.393Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:25:59.416Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T01:25:59.424Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:25:59.462Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:25:59.494Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-11T01:25:59.605Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:25:59.654Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved dom property for element id=email containing email"}
+{"level":30,"time":"2021-11-11T01:25:59.947Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:25:59.947Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:25:59.947Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:25:59.962Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:25:59.962Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:25:59.962Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:02.563Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:26:02.568Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:04.305Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:26:04.305Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:07.279Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T01:26:07.318Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:26:07.344Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T01:26:07.347Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-11T01:26:07.421Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: false"}
+{"level":30,"time":"2021-11-11T01:26:07.438Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//span[@class=\"error\"]"}
+{"level":30,"time":"2021-11-11T01:26:07.456Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"element= selector parsed without children"}
+{"level":30,"time":"2021-11-11T01:26:07.457Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:26:07.467Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element element=ba3f31e7-e5c7-4d11-8272-f1890a313698 containing E-mail obrigatório"}
+{"level":30,"time":"2021-11-11T01:26:07.473Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"element= selector parsed without children"}
+{"level":30,"time":"2021-11-11T01:26:07.473Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:26:07.479Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element element=303bfa60-fd37-4d57-a166-7b77dc6c4f32 containing Senha obrigatória"}
+{"level":30,"time":"2021-11-11T01:26:07.689Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:07.689Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:26:07.689Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:07.696Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:07.696Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:26:07.696Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:10.794Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:26:10.799Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:13.467Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:26:13.467Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:19.244Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T01:26:19.279Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:26:19.307Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T01:26:19.312Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:26:19.353Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:26:19.389Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-11T01:26:19.469Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=E-mail obrigatório"}
+{"level":30,"time":"2021-11-11T01:26:19.710Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:19.710Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:26:19.710Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:19.724Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:19.724Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:26:19.724Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:22.572Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:26:22.577Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:23.426Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:26:23.426Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:30.407Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T01:26:30.442Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:26:30.468Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T01:26:30.471Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:26:30.508Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:26:30.541Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-11T01:26:30.635Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Senha obrigatória"}
+{"level":30,"time":"2021-11-11T01:26:30.909Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:30.909Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:26:30.909Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:30.920Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:30.920Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:26:30.920Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:33.193Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:26:33.199Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:34.088Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:26:34.088Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:36.884Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//form[@class=\"login-form\"]/h1"}
+{"level":30,"time":"2021-11-11T01:26:36.919Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:26:36.942Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element xpath=//form[@class=\"login-form\"]/h1 containing Fazer login"}
+{"level":30,"time":"2021-11-11T01:26:37.153Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:37.153Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:26:37.153Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:37.161Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:37.161Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:26:37.161Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:42.558Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:26:42.562Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:44.965Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:26:44.965Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:48.318Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:26:48.357Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:26:48.399Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:26:48.432Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:26:48.468Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:26:48.498Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:26:48.581Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=p >> text=Agora você faz parte da Getgeeks. Tenha uma ótima experiência."}
+{"level":30,"time":"2021-11-11T01:26:49.488Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=a[href=\"/\"]"}
+{"level":30,"time":"2021-11-11T01:26:49.548Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2021-11-11T01:26:49.798Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:49.798Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:26:49.798Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:49.809Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:49.809Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:26:49.809Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:26:53.283Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:26:53.288Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:26:54.793Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:26:54.793Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:00.205Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:00.251Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:00.299Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:00.334Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:00.369Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:00.403Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:00.500Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-title"}
+{"level":30,"time":"2021-11-11T01:27:01.845Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:27:01.869Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element css=.swal2-title containing Oops..."}
+{"level":30,"time":"2021-11-11T01:27:01.872Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-html-container"}
+{"level":30,"time":"2021-11-11T01:27:01.898Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:27:01.917Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element css=.swal2-html-container containing Já temos um usuário com o e-mail informado."}
+{"level":30,"time":"2021-11-11T01:27:02.153Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:02.153Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:27:02.153Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:02.167Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:02.167Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:27:02.167Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:07.760Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:27:07.768Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:10.183Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:27:10.183Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:15.657Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:15.725Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:15.781Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:15.835Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:15.892Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:15.942Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:16.068Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=O email está estranho"}
+{"level":30,"time":"2021-11-11T01:27:16.582Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:16.582Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:27:16.582Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:16.600Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:16.600Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:27:16.600Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:20.793Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:27:20.802Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:21.696Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:27:21.696Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:28.159Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:28.212Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:28.313Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: false"}
+{"level":30,"time":"2021-11-11T01:27:28.333Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: xpath=//span[@class=\"error\"]"}
+{"level":30,"time":"2021-11-11T01:27:28.371Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"element= selector parsed without children"}
+{"level":30,"time":"2021-11-11T01:27:28.371Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:27:28.387Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element element=3192dc0e-3b55-435f-939f-e27b764f24e6 containing Cadê o seu nome?"}
+{"level":30,"time":"2021-11-11T01:27:28.393Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"element= selector parsed without children"}
+{"level":30,"time":"2021-11-11T01:27:28.393Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:27:28.409Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element element=c6f05223-d98f-4634-b88b-dcda782519d5 containing E o sobrenome?"}
+{"level":30,"time":"2021-11-11T01:27:28.415Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"element= selector parsed without children"}
+{"level":30,"time":"2021-11-11T01:27:28.415Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:27:28.429Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element element=cb3ece32-bfa0-4281-8adb-e326984e360f containing O email é importante também!"}
+{"level":30,"time":"2021-11-11T01:27:28.435Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"element= selector parsed without children"}
+{"level":30,"time":"2021-11-11T01:27:28.436Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-11T01:27:28.445Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Retrieved text for element element=d6424621-c790-4b9d-bf8c-4406ed0263ba containing Agora só falta a senha!"}
+{"level":30,"time":"2021-11-11T01:27:28.819Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:28.819Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:27:28.819Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:28.836Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:28.836Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:27:28.836Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:31.651Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:27:31.656Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:32.536Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:27:32.536Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:36.014Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:36.050Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:36.083Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:36.115Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:36.145Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:36.175Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:36.243Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:36.983Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:37.012Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:37.040Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:37.067Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:37.101Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:37.131Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:37.205Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:37.923Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:37.967Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:38.005Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:38.046Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:38.083Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:38.116Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:38.187Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:39.337Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:39.368Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:39.403Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:39.434Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:39.467Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:39.499Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:39.577Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:40.388Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:40.424Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:40.457Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:40.491Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:40.525Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:40.559Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:40.653Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:41.329Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:41.366Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:41.401Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:41.438Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:41.471Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:41.503Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:41.601Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:42.268Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:42.305Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:42.340Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:42.372Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:42.409Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:42.447Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:42.541Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:42.999Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:42.999Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:27:42.999Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:43.015Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:43.016Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:27:43.016Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:46.363Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:27:46.368Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:47.352Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:27:47.352Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:50.489Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:50.525Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:50.559Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:50.591Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:50.621Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:50.652Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:50.755Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:51.254Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:51.289Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:51.316Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:51.348Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:51.378Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:51.407Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:51.499Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:52.000Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:52.030Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:52.060Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:52.091Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:52.122Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:52.159Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:52.246Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:53.138Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:53.171Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:53.200Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:53.231Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:53.260Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:53.291Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:53.372Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:54.596Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:54.632Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:54.666Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:54.701Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:54.737Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:54.773Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:54.865Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:55.500Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:55.540Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:55.581Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:55.617Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:55.650Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:55.688Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:55.790Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:57.441Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:27:57.482Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:27:57.518Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:27:57.555Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:27:57.592Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:27:57.627Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:27:57.717Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe pelo menos 3 caracteres"}
+{"level":30,"time":"2021-11-11T01:27:58.139Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:58.139Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:27:58.139Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:27:58.162Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:27:58.162Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:27:58.162Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:28:02.968Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:28:02.973Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:28:03.842Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:28:03.842Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:28:08.630Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:08.690Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:08.733Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:08.771Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:08.808Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:08.845Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:08.948Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:09.656Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:09.700Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:09.742Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:09.809Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:09.867Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:09.925Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:10.020Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:10.738Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:10.814Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:10.868Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:10.935Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:11.033Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:11.081Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:11.186Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:11.910Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:11.954Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:11.999Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:12.045Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:12.090Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:12.135Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:12.242Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:13.276Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:13.318Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:13.364Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:13.403Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:13.437Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:13.473Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:13.556Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:14.348Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:14.395Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:14.450Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:14.493Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:14.539Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:14.593Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:14.692Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:15.281Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:15.323Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:15.366Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:15.412Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:15.464Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:15.512Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:15.622Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:16.342Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:16.390Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:16.435Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:16.482Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:16.524Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:16.566Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:16.662Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:17.606Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:17.653Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:17.695Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:17.736Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:17.769Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:17.802Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:17.899Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:18.832Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:18.891Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:18.939Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:18.981Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:19.016Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:19.049Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:19.142Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:19.840Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:19.876Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:19.899Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:19.932Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:19.960Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:19.990Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:20.048Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:21.384Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:21.432Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:21.473Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:21.509Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:21.546Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:21.585Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:21.667Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:22.707Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:22.745Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:22.781Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:22.815Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:22.851Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:22.888Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:22.971Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:24.033Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:24.069Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:24.105Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:24.138Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:24.172Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:24.207Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:24.290Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:25.104Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:25.159Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:25.208Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:25.237Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:25.261Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:25.282Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:25.348Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:26.923Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:26.946Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:26.967Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:26.988Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:27.007Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:27.027Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:27.090Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:28.359Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:28.383Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:28.410Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:28.436Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:28.459Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:28.484Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:28.567Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2021-11-11T01:28:28.827Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:28:28.827Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:28:28.827Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:28:28.841Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:28:28.841Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:28:28.841Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:28:35.019Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-11T01:28:35.023Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:28:36.043Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-11T01:28:36.043Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:28:39.458Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:39.502Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:39.539Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:39.574Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:39.608Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:39.639Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:39.726Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com no máximo 36 caracteres"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 5000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=span[class=error] >> text=Informe uma senha com no máximo 36 caracteres" to be visible
+============================================================
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
+    at fulfilled (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-11-11T01:28:45.891Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:45.930Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:45.974Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:46.017Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:46.059Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:46.096Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:46.203Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com no máximo 36 caracteres"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 5000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=span[class=error] >> text=Informe uma senha com no máximo 36 caracteres" to be visible
+============================================================
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
+    at fulfilled (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-11-11T01:28:52.417Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2021-11-11T01:28:52.446Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2021-11-11T01:28:52.486Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2021-11-11T01:28:52.525Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-11T01:28:52.563Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-11T01:28:52.602Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2021-11-11T01:28:52.690Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com no máximo 36 caracteres"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 5000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=span[class=error] >> text=Informe uma senha com no máximo 36 caracteres" to be visible
+============================================================
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
+    at fulfilled (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-11-11T01:28:58.394Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:28:58.394Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:28:58.394Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}
+{"level":30,"time":"2021-11-11T01:28:58.415Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active context"}
+{"level":30,"time":"2021-11-11T01:28:58.415Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-11T01:28:58.415Z","pid":3796,"hostname":"21LAPBRJ051FVL7","msg":"Changed active page"}

@@ -16,6 +16,6 @@ Do Login
     [Arguments]    ${geek}
 
     Go To Login Form
-    Fill Login Form              ${geek}  
+    Fill Login Form              ${geek}[email]     ${geek}[password]
     Submit Login Form
-    User Should Be Logged In     ${geek} 
+    User Should Be Logged In     ${geek}[name] ${geek}[lastname] 

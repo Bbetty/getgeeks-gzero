@@ -33,10 +33,10 @@ Insert User Database
 
 Users Seed
 
-    ${user}     Factory Login User
+    ${user}     Factory User    login
     Insert User Database     ${user}
 
-    ${geek}     Factory User Be Geek
+    ${geek}     Factory User    be_geek
     Insert User Database     ${geek}
 
 
